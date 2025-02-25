@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi! Im Aiden a programmer who likes to code in his free time.
+Hello, im Aiden a freetime coder.
+
+Ignore most of my repos tbh, I like to fork em and see how they work
+
+But I do have some great examples on my portfolio
 
 
 # 💻 Tech Stack:
